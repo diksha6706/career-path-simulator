@@ -1,0 +1,28 @@
+
+Name: Diksha
+Best Career: ML Engineer
+Matched Score: 60.0
+Career Readiness level: Good Foundation
+Missing Skills: Machine Learning
+Statistics
+
+
+Name: Diksha
+Best Career: Data Analyst
+Matched Score: 25.0
+Career Readiness level: Beginner
+Missing Skills: Excel
+Statistics
+SQL
+
+
+    Date: 03-06-2026
+    Time: 09:00 PM
+    Name: Diksha
+    Best Career: ML Engineer
+    Matched Score: 60.0
+    Career Readiness level: Good Foundation
+    Missing Skills: Machine Learning
+Statistics
+
+    
