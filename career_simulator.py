@@ -50,36 +50,36 @@ class CareerSimulator:
 
         return missing_skills
     
-def get_readiness_status(self, best_score):
+    def get_readiness_status(self, best_score):
 
-    if best_score >= 90:
-        return "Excellent Match"
+        if best_score >= 90:
+            return "Excellent Match"
 
-    elif best_score >= 70:
-        return "Almost Ready"
+        elif best_score >= 70:
+            return "Almost Ready"
 
-    elif best_score >= 50:
-        return "Good Foundation"
+        elif best_score >= 50:
+            return "Good Foundation"
 
-    elif best_score >= 30:
-        return "Needs Preparation"
+        elif best_score >= 30:
+            return "Needs Preparation"
 
-    else:
-        return "Beginner"
+        else:
+            return "Beginner"
 
-def generate_roadmap(self, missing_skills):
+    def generate_roadmap(self, missing_skills):
 
-    month = 1
+        month = 1
 
-    print("\nLearning Roadmap:")
+        print("\nLearning Roadmap:")
 
-    for skill in missing_skills:
+        for skill in missing_skills:
 
-        print(
-            "Month",
-            month,
-            "->",
-            skill
-        )
+            print(
+                "Month",
+                month,
+                "->",
+                skill
+            )
 
-        month += 1
+            month += 1

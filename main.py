@@ -1,6 +1,6 @@
 from career_data import careers
 from file_handler import *
-from career_utils import *
+# from career_utils import *
 from career_simulator import CareerSimulator
 
 simulator = CareerSimulator(careers)
@@ -157,7 +157,7 @@ for career, score in career_scores.items():
 print("Best Career:", best_career)
 print("Matched Score:", career_scores[best_career])
 
-missing_skills = simulator.get_missing_skills(careers, best_career, user_skills_set)
+missing_skills = simulator.get_missing_skills(best_career, user_skills_set)
 
 print("\nMissing Skills:")
 for skill in missing_skills:

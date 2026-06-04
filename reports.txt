@@ -26,3 +26,23 @@ SQL
 Statistics
 
     
+    Date: 04-06-2026
+    Time: 09:44 AM
+    Name: Diksha
+    Best Career: ML Engineer
+    Matched Score: 60.0
+    Career Readiness level: Good Foundation
+    Missing Skills: Machine Learning
+Statistics
+
+    
+    Date: 04-06-2026
+    Time: 09:45 AM
+    Name: Diksha
+    Best Career: ML Engineer
+    Matched Score: 60.0
+    Career Readiness level: Good Foundation
+    Missing Skills: Statistics
+Machine Learning
+
+    
