@@ -1,6 +1,5 @@
 from career_data import careers
 from file_handler import *
-# from career_utils import *
 from career_simulator import CareerSimulator
 
 simulator = CareerSimulator(careers)

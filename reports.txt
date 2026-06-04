@@ -46,3 +46,14 @@ Statistics
 Machine Learning
 
     
+    Date: 04-06-2026
+    Time: 09:52 AM
+    Name: Diksha
+    Best Career: Data Analyst
+    Matched Score: 25.0
+    Career Readiness level: Beginner
+    Missing Skills: Excel
+Statistics
+SQL
+
+    
